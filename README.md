@@ -47,7 +47,7 @@ RegisterNumber:212223230143
 **RTL realization**
 
 **Truth Table**
-![image](https://github.com/Nishadayalan/BOOLEAN_FUNCTION_MINIMIZATION/assets/145743072/89b083e7-5dbd-47c4-851a-6adf4d83bc46)
+![image](https://github.com/keerthanapillaram/BOOLEAN_FUNCTION_MINIMIZATION/assets/145743072/89b083e7-5dbd-47c4-851a-6adf4d83bc46)
 
 **RTL**
 ![Screenshot (140)](https://github.com/Nishadayalan/BOOLEAN_FUNCTION_MINIMIZATION/assets/144870468/0081e19e-f2c3-4a0c-b39a-09150f8fa39a)
